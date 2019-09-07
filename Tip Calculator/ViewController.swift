@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Tip Calculator
 //
-//  Created by Aniya Allen on 9/6/19.
+//  Created by Aniya Allen on 9/4/19.
 //  Copyright © 2019 Aniya Allen. All rights reserved.
 //
 
