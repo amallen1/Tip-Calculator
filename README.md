@@ -26,9 +26,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+<img src='https://g.recordit.co/4kCVjFyfOk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='http://g.recordit.co/qLsHXr0EqX.gif'>
-<img src='https://s3.amazonaws.com/img0.recordit.co/4kCVjFyfOk.mp4?AWSAccessKeyId=AKIAINSRFOQXTN4DT46A&Expires=1567889116&Signature=%2F3cczhwsnj9xi29%2By8wlZaqnuEE%3D'>
-<img src='https://g.recordit.co/4kCVjFyfOk.gif' title='Video Walkthrough' width='5' alt='Video Walkthrough' />
+
+
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
